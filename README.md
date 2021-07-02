@@ -6,4 +6,5 @@ Won't be active much anymore because I'm having a fard ton of nightmares LOL.
   
 Will still be developing mc mods and plugins mainly focused on removing jumpscare pufferfish entirely from the game.            
 
-Oh and don't give me that garbage about "omg just avoid the ocean monument" or "omg they're just pufferfish", even "but if Mojang removes it the veteran players will be angry" stay mad I'm blaming this entirely on Mojang.  
+Oh and don't give me that garbage about "omg just avoid the ocean monument" or "omg they're just pufferfish", even "but if Mojang removes it the veteran players will be angry" stay mad I'm blaming this entirely on Mojang. I can't believe it got this bad(TM)  
+  
