@@ -13,11 +13,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8065](https://github.com/dotnet/sdk/issues/8065) in [dotnet/sdk](https://github.com/dotnet/sdk)
-2. ❗️ Opened issue [#855](https://github.com/EWSoftware/SHFB/issues/855) in [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB)
-3. ❗️ Opened issue [#4](https://github.com/Project-Prism/Prism-OS/issues/4) in [Project-Prism/Prism-OS](https://github.com/Project-Prism/Prism-OS)
-4. ❗️ Opened issue [#1](https://github.com/Cydhra/limbus/issues/1) in [Cydhra/limbus](https://github.com/Cydhra/limbus)
-5. 🗣 Commented on [#61](https://github.com/minecrafthome/minecrafthome/issues/61) in [minecrafthome/minecrafthome](https://github.com/minecrafthome/minecrafthome)
+1. ❗️ Closed issue [#855](https://github.com/EWSoftware/SHFB/issues/855) in [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB)
+2. 🗣 Commented on [#8065](https://github.com/dotnet/sdk/issues/8065) in [dotnet/sdk](https://github.com/dotnet/sdk)
+3. ❗️ Opened issue [#855](https://github.com/EWSoftware/SHFB/issues/855) in [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB)
+4. ❗️ Opened issue [#4](https://github.com/Project-Prism/Prism-OS/issues/4) in [Project-Prism/Prism-OS](https://github.com/Project-Prism/Prism-OS)
+5. ❗️ Opened issue [#1](https://github.com/Cydhra/limbus/issues/1) in [Cydhra/limbus](https://github.com/Cydhra/limbus)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
