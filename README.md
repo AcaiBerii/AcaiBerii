@@ -13,11 +13,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/seppukudevelopment/seppuku/issues/73) in [seppukudevelopment/seppuku](https://github.com/seppukudevelopment/seppuku)
-2. ❗️ Closed issue [#855](https://github.com/EWSoftware/SHFB/issues/855) in [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB)
-3. 🗣 Commented on [#8065](https://github.com/dotnet/sdk/issues/8065) in [dotnet/sdk](https://github.com/dotnet/sdk)
-4. ❗️ Opened issue [#855](https://github.com/EWSoftware/SHFB/issues/855) in [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB)
-5. ❗️ Opened issue [#4](https://github.com/Project-Prism/Prism-OS/issues/4) in [Project-Prism/Prism-OS](https://github.com/Project-Prism/Prism-OS)
+1. 🗣 Commented on [#1099](https://github.com/CosmosOS/Cosmos/issues/1099) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
+2. 🗣 Commented on [#73](https://github.com/seppukudevelopment/seppuku/issues/73) in [seppukudevelopment/seppuku](https://github.com/seppukudevelopment/seppuku)
+3. ❗️ Closed issue [#855](https://github.com/EWSoftware/SHFB/issues/855) in [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB)
+4. 🗣 Commented on [#8065](https://github.com/dotnet/sdk/issues/8065) in [dotnet/sdk](https://github.com/dotnet/sdk)
+5. ❗️ Opened issue [#855](https://github.com/EWSoftware/SHFB/issues/855) in [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
