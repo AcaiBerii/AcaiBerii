@@ -13,11 +13,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2023](https://github.com/Sainan/Universal-Bypass/issues/2023) in [Sainan/Universal-Bypass](https://github.com/Sainan/Universal-Bypass)
-2. 🗣 Commented on [#1174](https://github.com/Sainan/Universal-Bypass/issues/1174) in [Sainan/Universal-Bypass](https://github.com/Sainan/Universal-Bypass)
-3. 🗣 Commented on [#1762](https://github.com/CosmosOS/Cosmos/issues/1762) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
-4. 🗣 Commented on [#1801](https://github.com/CosmosOS/Cosmos/issues/1801) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
-5. 🗣 Commented on [#1099](https://github.com/CosmosOS/Cosmos/issues/1099) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
+1. 💪 Opened PR [#1](https://github.com/bluethefoxofficial/VORS-VIRUS/pull/1) in [bluethefoxofficial/VORS-VIRUS](https://github.com/bluethefoxofficial/VORS-VIRUS)
+2. 🗣 Commented on [#2869](https://github.com/benawad/dogehouse/issues/2869) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+3. 💪 Opened PR [#1](https://github.com/bluethefoxofficial/dogehouse-reloaded/pull/1) in [bluethefoxofficial/dogehouse-reloaded](https://github.com/bluethefoxofficial/dogehouse-reloaded)
+4. 🗣 Commented on [#2023](https://github.com/Sainan/Universal-Bypass/issues/2023) in [Sainan/Universal-Bypass](https://github.com/Sainan/Universal-Bypass)
+5. 🗣 Commented on [#1174](https://github.com/Sainan/Universal-Bypass/issues/1174) in [Sainan/Universal-Bypass](https://github.com/Sainan/Universal-Bypass)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
