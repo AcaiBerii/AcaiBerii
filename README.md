@@ -13,11 +13,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/terminal-cs/Cosmos/pull/1) in [terminal-cs/Cosmos](https://github.com/terminal-cs/Cosmos)
-2. 🗣 Commented on [#1885](https://github.com/CosmosOS/Cosmos/issues/1885) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
-3. 🗣 Commented on [#1878](https://github.com/CosmosOS/Cosmos/issues/1878) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
-4. 💪 Opened PR [#1](https://github.com/bluethefoxofficial/VORS-VIRUS/pull/1) in [bluethefoxofficial/VORS-VIRUS](https://github.com/bluethefoxofficial/VORS-VIRUS)
-5. 🗣 Commented on [#2869](https://github.com/benawad/dogehouse/issues/2869) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. 🗣 Commented on [#3](https://github.com/MCPI-Revival/jMCPIL/issues/3) in [MCPI-Revival/jMCPIL](https://github.com/MCPI-Revival/jMCPIL)
+2. ❗️ Opened issue [#3](https://github.com/MCPI-Revival/jMCPIL/issues/3) in [MCPI-Revival/jMCPIL](https://github.com/MCPI-Revival/jMCPIL)
+3. 💪 Opened PR [#1](https://github.com/terminal-cs/Cosmos/pull/1) in [terminal-cs/Cosmos](https://github.com/terminal-cs/Cosmos)
+4. 🗣 Commented on [#1885](https://github.com/CosmosOS/Cosmos/issues/1885) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
+5. 🗣 Commented on [#1878](https://github.com/CosmosOS/Cosmos/issues/1878) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
