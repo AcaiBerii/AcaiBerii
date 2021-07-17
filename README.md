@@ -13,11 +13,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1886](https://github.com/CosmosOS/Cosmos/issues/1886) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
-2. 🗣 Commented on [#1885](https://github.com/CosmosOS/Cosmos/issues/1885) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
-3. ❗️ Opened issue [#2](https://github.com/programmerShourya/Password-helper/issues/2) in [programmerShourya/Password-helper](https://github.com/programmerShourya/Password-helper)
-4. 🗣 Commented on [#3](https://github.com/MCPI-Revival/jMCPIL/issues/3) in [MCPI-Revival/jMCPIL](https://github.com/MCPI-Revival/jMCPIL)
-5. ❗️ Opened issue [#3](https://github.com/MCPI-Revival/jMCPIL/issues/3) in [MCPI-Revival/jMCPIL](https://github.com/MCPI-Revival/jMCPIL)
+1. ❗️ Opened issue [#2](https://github.com/GardeningTool/GardeningTool/issues/2) in [GardeningTool/GardeningTool](https://github.com/GardeningTool/GardeningTool)
+2. 🗣 Commented on [#34](https://github.com/GardeningTool/HostsMod/issues/34) in [GardeningTool/HostsMod](https://github.com/GardeningTool/HostsMod)
+3. ❗️ Opened issue [#39](https://github.com/GardeningTool/HostsMod/issues/39) in [GardeningTool/HostsMod](https://github.com/GardeningTool/HostsMod)
+4. 🗣 Commented on [#1886](https://github.com/CosmosOS/Cosmos/issues/1886) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
+5. 🗣 Commented on [#1885](https://github.com/CosmosOS/Cosmos/issues/1885) in [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
