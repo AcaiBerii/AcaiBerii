@@ -10,16 +10,7 @@
 
 ### Spotify 🎧
 [![Spotify](https://novatorem-b1zrxxjw6.vercel.app/api/spotify)]()
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/DaddyInsanity/DoxBin/issues/1) in [DaddyInsanity/DoxBin](https://github.com/DaddyInsanity/DoxBin)
-2. 🗣 Commented on [#1](https://github.com/bluethefoxofficial/dogehouse-reloaded/issues/1) in [bluethefoxofficial/dogehouse-reloaded](https://github.com/bluethefoxofficial/dogehouse-reloaded)
-3. ❗️ Opened issue [#1](https://github.com/Pixchure/Random-Hack-Clients-I-Have/issues/1) in [Pixchure/Random-Hack-Clients-I-Have](https://github.com/Pixchure/Random-Hack-Clients-I-Have)
-4. 🗣 Commented on [#158](https://github.com/drtshock/Potato/issues/158) in [drtshock/Potato](https://github.com/drtshock/Potato)
-5. 🗣 Commented on [#141](https://github.com/isaacs/github/issues/141) in [isaacs/github](https://github.com/isaacs/github)
-<!--END_SECTION:activity-->
-
+           
 ### Github Stats 📄
 ![Berii's Github Stats](https://github-readme-stats.vercel.app/api?username=AcaiBerii&theme=vue&count_private=true&show_icons=true)
 
