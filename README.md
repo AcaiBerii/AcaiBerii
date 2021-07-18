@@ -13,11 +13,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Pixchure/Random-Hack-Clients-I-Have/issues/1) in [Pixchure/Random-Hack-Clients-I-Have](https://github.com/Pixchure/Random-Hack-Clients-I-Have)
-2. 🗣 Commented on [#158](https://github.com/drtshock/Potato/issues/158) in [drtshock/Potato](https://github.com/drtshock/Potato)
-3. 🗣 Commented on [#141](https://github.com/isaacs/github/issues/141) in [isaacs/github](https://github.com/isaacs/github)
-4. ❗️ Opened issue [#2](https://github.com/GardeningTool/GardeningTool/issues/2) in [GardeningTool/GardeningTool](https://github.com/GardeningTool/GardeningTool)
-5. 🗣 Commented on [#34](https://github.com/GardeningTool/HostsMod/issues/34) in [GardeningTool/HostsMod](https://github.com/GardeningTool/HostsMod)
+1. 🗣 Commented on [#1](https://github.com/bluethefoxofficial/dogehouse-reloaded/issues/1) in [bluethefoxofficial/dogehouse-reloaded](https://github.com/bluethefoxofficial/dogehouse-reloaded)
+2. ❗️ Opened issue [#1](https://github.com/Pixchure/Random-Hack-Clients-I-Have/issues/1) in [Pixchure/Random-Hack-Clients-I-Have](https://github.com/Pixchure/Random-Hack-Clients-I-Have)
+3. 🗣 Commented on [#158](https://github.com/drtshock/Potato/issues/158) in [drtshock/Potato](https://github.com/drtshock/Potato)
+4. 🗣 Commented on [#141](https://github.com/isaacs/github/issues/141) in [isaacs/github](https://github.com/isaacs/github)
+5. ❗️ Opened issue [#2](https://github.com/GardeningTool/GardeningTool/issues/2) in [GardeningTool/GardeningTool](https://github.com/GardeningTool/GardeningTool)
 <!--END_SECTION:activity-->
 
 ### Github Stats 📄
